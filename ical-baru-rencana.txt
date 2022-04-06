@@ -3,6 +3,9 @@ rencana baru
 -dekor kamar
  *cat gray/black
  *ganti kasur/pindahin kasur bawah
+ *custom banner
+ *pasang pintu
 -beli flashdisk
--grooming ciko seminggu sekali/dua minggu sekali
 -konsisten melaksanakan olahraga menambah tinggi badan
+-grooming ciko seminggu sekali/dua minggu sekali
+ *menghilangkan jamur dan kutu
