@@ -1,5 +1,9 @@
 rencana baru
 -belajar javascript (sesuai jalur belajar web development di WPU)
 -dekor kamar
+ *cat gray/black
+ *custom banner
+ *ganti kasur
 -beli flashdisk
 -grooming ciko seminggu sekali/dua minggu sekali
+ *menghilangkan jamur dan kutu
